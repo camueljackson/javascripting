@@ -1,0 +1,23 @@
+{
+  "name": "w1d5chalkpckg",
+  "version": "1.0.0",
+  "description": "![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)",
+  "main": "sum.js",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camueljackson/javascripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camueljackson/javascripting/issues"
+  },
+  "homepage": "https://github.com/camueljackson/javascripting#readme"
+}
